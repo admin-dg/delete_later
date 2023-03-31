@@ -15,3 +15,4 @@
 13. Check the results in admin interface
 14. play with your newly created model in admin interface
 15. play with your newly created model in django shell (`python manage.py shell`)
+16. okey done!
